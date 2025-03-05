@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=Kn0aiUuvZ9g&list=PLV-kojfsJE_lVNKsiz3yBkMibKX_My
 
 Wallets & Zahlungen:
 
-Coinos Wallet – Eine einfache Bitcoin-Wallet für On-Chain- und Lightning-Transaktionen
-https://coinos.io/
+Muun Wallet – Eine einfache Bitcoin-Wallet für On-Chain- und Lightning-Transaktionen
+[[https://muun.com/]
 
 Hidden Wallet (Monero Wallet) – Anonyme Transaktionen mit Monero
 https://wallet.mymonero.com/
